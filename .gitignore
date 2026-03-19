@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+
+android/.gradle/
+android/local.properties
+android/build/
+android/app/build/
