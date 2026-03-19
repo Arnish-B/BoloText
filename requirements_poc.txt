@@ -1,0 +1,14 @@
+# BoloText PoC - Python Dependencies
+
+# Audio recording
+sounddevice>=0.4.6
+numpy>=1.24.0
+
+# Speech-to-Text (Whisper)
+openai-whisper>=20231117
+
+# Transliteration (Devanagari to Roman)
+indic-transliteration>=2.3.0
+
+# Optional: For better audio handling
+scipy>=1.10.0
